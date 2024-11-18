@@ -122,7 +122,7 @@ end
 figure(3)
 plot(0:dt:tf,x_nom)
 xlabel('Time')
-ylabel('State feedback')
+ylabel('State(x)')
 grid on
 hold on
 
